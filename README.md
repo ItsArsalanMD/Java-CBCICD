@@ -1,4 +1,4 @@
 # Java-CBCICD
 
 v:1.2
-test 5
+test 6
